@@ -1,12 +1,12 @@
 title:            leocloud
-description:      leocloud/Bolg
+description:      Just do it！
 logo:             logo.png
 background:       
 # 如果comments_sys为多说且有定义duoshuo_shortname，则使用多说；
 # 如果comments_sys为Disqus且有定义disqus_shortname，则使用disqus；
 comments_sys:     
 duoshuo_shortname: 
-disqus_shortname: <void>
+disqus_shortname: 
 share:            true
 # 代码高亮
 highlight:        true
