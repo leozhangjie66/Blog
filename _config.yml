@@ -19,7 +19,7 @@ url:              /Blog
 
 # Owner/author information
 owner:
-  name:           张杰
+  name:           leo.Zhang
   avatar:         leocloud.jpg
   email:          leozhangjie66@gmail.com
   wechat:         
@@ -50,18 +50,18 @@ bing_verify:
 # For external links add external: true
 # 导航栏内容
 links:
+  - title: 关于我
+    url: /about
   - title: 主页
     url: /
     external: false
     icon: home
   - title: 编程
     url: /featured
-  - title: 消遣
-    url: /relaxed
+  - title: 操作系统
+    url: /operatingsystem
   - title: 分类
     url: /categories
-  - title: 关于我
-    url: /about
   - title: 统计
     url: /analytics
 #  - title: Link

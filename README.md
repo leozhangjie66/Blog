@@ -30,7 +30,7 @@ Notepad-China
 	featured.html   File         佳文浏览
 *	index.html      File         index页面
 *   link.md         File         友情链接
-*   relaxed.html    File         水文浏览
+*   operatingsystem.html    File 操作系统相关
 </pre>
 
 ### 博文相关
