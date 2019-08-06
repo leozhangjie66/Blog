@@ -20,11 +20,11 @@ chart: true
 - 开发语言：Java、Python、Go
 - Devops：Shell、Docker、Kubernetes等
 
-<div class="cf"></div>
+<!--<div class="cf"></div>
 <section class="summer-disqus row">
 <div class="small-12 columns">
 <h1 class="summer-comments-header">Comments</h1>
 <div id="disqus_thread"></div>
 {% include duoshuo_comments.html %}
 </div>
-</section>
+</section>-->
