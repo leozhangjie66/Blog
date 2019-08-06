@@ -2131,8 +2131,8 @@ AmCharts.AmChart = AmCharts.Class({
                 e = this.realHeight;
             if ("serial" == this.type || "xy" == this.type) b = this.marginLeftReal, c = this.marginTopReal, d = b + this.plotAreaWidth, e =
                 c + this.plotAreaHeight;
-            var f = "http://gaocegege.github.io/Blog/about/",
-                g = "关于我 | 高策",
+            var f = "",
+                g = "",
                 h = "Designed By Cece";
             "ammap" == this.product && (f = "http://www.ammap.com/javascript-maps/", g = "Interactive JavaScript maps", h = "JS map by amCharts");
             var k = document.createElement("a"),
