@@ -13,8 +13,8 @@ featured: false
 ---
 
 >参考文件：  
->1.[https://blog.csdn.net/openbox2008/article/details/80051259](https://blog.csdn.net/openbox2008/article/details/80051259)
->2.[https://segmentfault.com/a/1190000008743806](https://segmentfault.com/a/1190000008743806)
+>1.[https://blog.csdn.net/openbox2008/article/details/80051259](https://blog.csdn.net/openbox2008/article/details/80051259)  
+>2.[https://segmentfault.com/a/1190000008743806](https://segmentfault.com/a/1190000008743806)  
 
 ## 编辑 grub 配置文件
 
