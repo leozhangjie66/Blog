@@ -15,7 +15,7 @@ featured: false
 # 使用kubeadm安装Kubernetes 1.15
 
 > 本文仅做学习交流使用，如有侵权，立即删除。
-> 参考文献：
+> 参考文献：  
 > [https://blog.frognew.com/2019/07/kubeadm-install-kubernetes-1.15.html](https://blog.frognew.com/2019/07/kubeadm-install-kubernetes-1.15.html)  
 > [https://zhuanlan.zhihu.com/p/35699988](https://zhuanlan.zhihu.com/p/35699988)  
 > [https://github.com/opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster)  
