@@ -70,23 +70,24 @@
 {% if site.share %}{% include share.html %}{% endif %}
         <div class="cf"></div>
         <div class="cf"></div>
-        <!--{% if site.disqus_shortname and page.comments == true and site.comments_sys == 'disqus'%}
-        <section class="summer-disqus row">
+       {% if site.disqus_shortname and page.comments == true and site.comments_sys == 'disqus'%}
+        <!-- <section class="summer-disqus row">
     <div class="small-12 columns">
         <h1 class="summer-comments-header">评论</h1>
         <div id="disqus_thread"></div>
         {% include disqus_comments.html %}
     </div>
-</section>
+</section>-->
 {% else %}
-        <section class="summer-disqus row">
+        <!-- <section class="summer-disqus row">
     <div class="small-12 columns">
         <h1 class="summer-comments-header">评论</h1>
         <div id="disqus_thread"></div>
         {% include duoshuo_comments.html %}
     </div>
-</section>
-{% endif %}-->
+</section>-->
+{% endif %}
+
 {% include signoff.html %} 
         <div class="cf"></div>
 
